@@ -1,1 +1,1 @@
-![RPE-Net Architecture](./Draft_RPE-net.drawio.png)
+![RPE-Net Architecture](./Draft_RPE-net.drawio.svg)
